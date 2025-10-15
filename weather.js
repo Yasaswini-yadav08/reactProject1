@@ -34,7 +34,7 @@ function GfGWeatherApp() {
             'Sunday',
             'Monday',
             'Tuesday',
-            'Wednesday',
+            'Wednesday,,,,,,,,,,,,,,,,',
             'Thursday',
             'Friday',
             'Saturday',
@@ -133,5 +133,6 @@ function GfGWeatherApp() {
         </div>
     );
 }
+
 
 export default GfGWeatherApp;
